@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.f4ece124.chunk.css",
-    "main.js": "/Portfolio-Website/static/js/main.bead71d1.chunk.js",
-    "main.js.map": "/Portfolio-Website/static/js/main.bead71d1.chunk.js.map",
+    "main.css": "/Portfolio-Website/static/css/main.5eba47e7.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.ee7394d3.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.ee7394d3.chunk.js.map",
     "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.b50d5176.js",
     "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.b50d5176.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/Portfolio-Website/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4ee6a902.chunk.js": "/Portfolio-Website/static/js/2.4ee6a902.chunk.js",
-    "static/js/2.4ee6a902.chunk.js.map": "/Portfolio-Website/static/js/2.4ee6a902.chunk.js.map",
+    "static/js/2.7d590850.chunk.js": "/Portfolio-Website/static/js/2.7d590850.chunk.js",
+    "static/js/2.7d590850.chunk.js.map": "/Portfolio-Website/static/js/2.7d590850.chunk.js.map",
     "static/js/3.0ddd2cb7.chunk.js": "/Portfolio-Website/static/js/3.0ddd2cb7.chunk.js",
     "static/js/3.0ddd2cb7.chunk.js.map": "/Portfolio-Website/static/js/3.0ddd2cb7.chunk.js.map",
     "index.html": "/Portfolio-Website/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/Portfolio-Website/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.f4ece124.chunk.css.map": "/Portfolio-Website/static/css/main.f4ece124.chunk.css.map",
-    "static/js/2.4ee6a902.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.4ee6a902.chunk.js.LICENSE.txt",
+    "static/css/main.5eba47e7.chunk.css.map": "/Portfolio-Website/static/css/main.5eba47e7.chunk.css.map",
+    "static/js/2.7d590850.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.7d590850.chunk.js.LICENSE.txt",
     "static/media/About-me-bg-img.f6ac3fc0.jpg": "/Portfolio-Website/static/media/About-me-bg-img.f6ac3fc0.jpg",
     "static/media/Adsoul.14fc497e.png": "/Portfolio-Website/static/media/Adsoul.14fc497e.png",
     "static/media/CSS-bg.d2811e59.png": "/Portfolio-Website/static/media/CSS-bg.d2811e59.png",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.b50d5176.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.4ee6a902.chunk.js",
-    "static/css/main.f4ece124.chunk.css",
-    "static/js/main.bead71d1.chunk.js"
+    "static/js/2.7d590850.chunk.js",
+    "static/css/main.5eba47e7.chunk.css",
+    "static/js/main.ee7394d3.chunk.js"
   ]
 }
