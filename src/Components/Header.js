@@ -21,9 +21,9 @@ const Header = () => {
         />
         <Link
           smooth={true}
-          duration={1500}
+          duration={80}
           to="contact"
-          className="btn-main-offer"
+          className="btn-main-offer text-decoration-none"
         >
           {" "}
           Contact Me
